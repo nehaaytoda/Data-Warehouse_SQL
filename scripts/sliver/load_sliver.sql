@@ -285,4 +285,4 @@ SELECT CONCAT(
 ) AS message;
 END
 
-CALL sliver.load_sliver;
+
