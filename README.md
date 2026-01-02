@@ -33,7 +33,7 @@ Everything is for Free!
 
 ---
 
-## 🚀 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
